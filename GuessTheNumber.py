@@ -18,3 +18,6 @@ while(guess != number):
 
     elif (guess == number):
         print("Correct! You win!")
+
+    else:
+        print("Invalid guess. Try again.")
